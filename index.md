@@ -14,8 +14,6 @@
 
 I could start by saying that I am a fourth-year computer science major but what does that actually tell you about me? Not much.
 
-
-
 Instead, I'd like to share with you a little piece of me.
 Growing up, I always been a curious and creative person. I fell in love with art and dance. At the same time, I've always loved the perfection of mathematics and the mysteriousness of code. 
 ### Now I aspire to lead humanity into the future of art and technology.
@@ -28,6 +26,9 @@ print("HELLO WORLD! WELCOME TO THE FUTURE")
 1. Code Coach for over 4 years at TheCoderSchool in Fremont, CA.
 2. For a series of 4 summer internships, I worked directly with the COO of Walters & Wolf Glass Company to develop enterprise solutions.
 3. Worked as Professor Mary McKay's Teacher's Assistant at UCSD for Managing Diverse Teams and Business and Organizational Leadership since Fall 2024.
+
+## Take a Look at some of my student's projects!
+![Game 1](Screenshot 2024-02-16 171403.png)
 
 #### Proficiency in Programming Languages/Software Tools
 - Git
