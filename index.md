@@ -66,5 +66,5 @@ print("HELLO WORLD! WELCOME TO THE FUTURE")
 - [ ] Have my own school of creative coding and poetic computation.
 
 ## Cool Things to Check Out!
-- Check out my [website](www.milana-gorobchenko.com) to get a sense of my inner landscape.
+- Check out my [website](https://www.milana-gorobchenko.com) to get a sense of my inner landscape.
 - Take a look [here](ai_surfer.png) to see some of my ai artwork!
