@@ -10,6 +10,8 @@
 
 ## About Me
 
+![picture of me](profile.JPEG)
+
 > Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it
 
 I could start by saying that I am a fourth-year computer science major but what does that actually tell you about me? Not much.
@@ -28,7 +30,7 @@ print("HELLO WORLD! WELCOME TO THE FUTURE")
 3. Worked as Professor Mary McKay's Teacher's Assistant at UCSD for Managing Diverse Teams and Business and Organizational Leadership since Fall 2024.
 
 ## Take a Look at some of my student's projects!
-![Game 1](Screenshot 2024-02-16 171403.png)
+![Game 1]("Screenshot 2024-02-16 171403.png")
 
 #### Proficiency in Programming Languages/Software Tools
 - Git
