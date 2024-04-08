@@ -30,7 +30,6 @@ print("HELLO WORLD! WELCOME TO THE FUTURE")
 3. Worked as Professor Mary McKay's Teacher's Assistant at UCSD for Managing Diverse Teams and Business and Organizational Leadership since Fall 2024.
 
 ## Take a Look at some of my student's projects!
-![Game 1]("Screenshot 2024-02-16 171403.png")
 
 #### Proficiency in Programming Languages/Software Tools
 - Git
