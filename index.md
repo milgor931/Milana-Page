@@ -31,6 +31,11 @@ print("HELLO WORLD! WELCOME TO THE FUTURE")
 
 ## Take a Look at some of my student's projects!
 
+![Ryder's game](ryder-game.png)
+![Sasha's Game 1](sasha-game-2.png)
+![Sasha's Game 2](sasha-game.png)
+![Aanavi's game](aanavi-game.png)
+
 #### Proficiency in Programming Languages/Software Tools
 - Git
 - Web development:
